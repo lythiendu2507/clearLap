@@ -1,0 +1,124 @@
+
+
+.drop-menu
+{
+    position: relative;
+    margin: 0px;
+    height: 80px;
+    width: 1380px;
+    background-color: #fff;
+   
+    
+}
+.drop-menu  .drop-menu-item
+{
+    display: flex;
+    position: absolute;
+    color: #071e55; 
+    font-family: 'Nunito', sans-serif;
+    list-style: none;
+    margin-top: 0;
+    text-align: center;
+    text-decoration: none;
+}
+.drop-menu .drop-menu-item li,a
+{  
+    padding: 16px 8px;
+    color: #071e55;  
+    justify-content: space-around;
+    text-decoration: none;
+}
+
+
+.Home
+{
+    position: relative;
+    height: 600px;
+    width: 1360px;
+    font-family: 'Nunito', sans-serif;
+    background-color: #bbdefb;
+}
+
+.Home .Home-introduce h1
+{
+    position: absolute;
+    margin: 0 0 10px;
+    color: #252525;
+    margin-top: 160px;
+    margin-left: 150px;
+
+    
+}
+
+.Home .Home-introduce h3
+{
+    position: absolute;
+    
+    margin: 0 0 10px;
+    color: #252525;
+    margin-top: 220px;
+    margin-left: 150px;
+
+    
+}
+.Home .Home-introduce .home-begin
+{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 150px;
+    width: 125px;
+    height: 59px;
+    background: #1565c0;
+    border-radius: 15%;
+    color: #fff;
+    font-size: 110%;
+    transition: .5s;
+}
+.Home .Home-introduce .home-begin:hover
+{
+    background-color:  #fff;
+    color: #1565c0;
+}
+
+.Home .Home-introduce img
+{
+    position: relative;
+    float: right;
+    margin: 50px 50px 50px 50px ;
+}
+
+.question
+{
+    position: relative;
+    height: 300px;
+    width: 1360px;
+    font-family: 'Nunito', sans-serif;
+
+}
+.question h1
+{
+    text-align: center;
+    color:  #252525;
+    margin-top: 15px;
+    margin-bottom: 50px;
+
+}
+
+.question .question-row1
+{
+    float: left;
+    width: 50%;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.question h3
+{
+    color: #071e55;
+    margin-bottom: 10px;
+}
+.question  p
+{
+    color:  #7c8595;
+    margin-bottom: 20px;
+}
